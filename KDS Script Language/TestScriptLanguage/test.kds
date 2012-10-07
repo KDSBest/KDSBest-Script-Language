@@ -1,0 +1,75 @@
+class Test
+{
+	object rofl;
+	number lala;
+
+	function Test()
+	{
+
+	}
+	/*blabla
+
+	*/ 
+	string la;
+
+	/*rofl*/
+	// some sensless comments to test it
+	function Test(object t /* object that gets cloned */)
+	{
+		this.lala = t.lala; //woot comment
+		rofl = t.rofl;
+	}
+
+	function string smallFunc()
+	{
+		number b;
+		string lalala;
+		lalala = new SuperMario();
+		b = lalala;
+		return b + lalala;
+	}
+
+	function object bigFunction(number rofl, object lalalala)
+	{
+		if(1==2)
+			testStr = "ROFLCopter" + test123.lalla + test123["rofl" + 2 + "copter"] + 4;
+		else
+		{
+			this.lalla = "AAAA";
+		}
+
+		if(2==2)
+		{
+			VM.Console(testStr + ": " + test.DoSomeMath(1.2, 2) + "\n" + -1 + ++i - i-- + i++ + test(test( ), i - 5 * 3 -5 + this.lalala(1-2)));
+			lalalala();
+		}
+
+		for(;;)
+		{
+			a = 0;
+		}
+
+		while(lol)
+			blub=true;
+
+		while(blub)
+		{
+			blub = false;
+		}
+
+		for(i=0; i<100; i++)
+		{
+			VM.Console(i);
+		}
+
+		for(; i>0; --i)
+		{
+			VM.Console(i);
+		}
+	}
+}
+
+class Test2
+{
+
+}
