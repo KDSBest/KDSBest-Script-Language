@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KDS Script Language")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("KDSBest Script Language")]
+[assembly: AssemblyDescription("A Script Language/Engine which is useable in XNA or Standalone.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KDS Script Language")]
+[assembly: AssemblyProduct("KDSBest Script Language")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
