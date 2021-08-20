@@ -1,6 +1,1 @@
-KDSBest-Script-Language
-=======================
-
-A Script Language/Engine in C# with classes.
-
-The Script Language/Engine is useable in XNA, but also works standalone.
+Deprecated use the implementation of https://github.com/KDSBest/2D-MMORPG-Youtube
